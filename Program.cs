@@ -15,7 +15,7 @@ for (int i = mynumb; i >= 0; i--)
 
             Console.Write("Enter a number: ");
             int mynumbNext = int.Parse(Console.ReadLine());
-            i = mynumbNext + 1; // Need to add 1 for the first decrement.
+            i = mynumbNext + 1; // Need to add 1 for the first decrement
         }
     }
 }
